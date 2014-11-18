@@ -10,5 +10,5 @@
 
 @interface ViewController : UIViewController
 @property(strong,nonatomic)NSString *name;
-
+@property(strong,nonatomic)NSString *height;
 @end
